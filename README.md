@@ -2,10 +2,12 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Surina's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-## 💻 DEV's log 💻
 <div style="display:flex; flex-direction:row;">
     <a href="https://dailycomputer.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
+    </a>
+    <a href="https://blog.naver.com/applehyunsoo1125">
+        <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
     </a>
 </div><br>
 
