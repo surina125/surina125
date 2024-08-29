@@ -6,9 +6,6 @@
     <a href="https://dailycomputer.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
-    <a href="https://blog.naver.com/applehyunsoo1125">
-        <img src="https://img.shields.io/badge/Naver_Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white">
-    </a>
 </div><br>
 
 ## 📞 Contact 📞
