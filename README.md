@@ -3,6 +3,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Surina's%20GitHub%20👋&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 <div style="display:flex; flex-direction:row;">
+    <a href="https://www.miricanvas.com/v/13seegz" style="margin-left:10px; text-decoration: none; color: black;">
+        <img src="https://img.shields.io/badge/포트폴리오 링크-4285F4?style=for-the-badge&logo=Google%20Drive&logoColor=white"> 
+    </a>
     <a href="https://dailycomputer.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
