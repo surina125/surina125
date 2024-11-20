@@ -31,7 +31,6 @@
     <img src="https://img.shields.io/badge/sqlite3-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff">
-    <img src="https://img.shields.io/badge/Vue-3.4.27-brightgreen?style=for-the-badge">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000">
     <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=fff">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=fff">
